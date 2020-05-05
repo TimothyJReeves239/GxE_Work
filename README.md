@@ -6,6 +6,6 @@
   
   8_Uncalibrated_Growth.ipynb - Script converted from R to add mandatory prediction variables
   
-  9_find_elevation_data.py - Script made because I was overeager after learning how to web scape
+  9_find_elevation_data.py - Script made because I was overeager
   
                               Lesson learned: Think before you code!
